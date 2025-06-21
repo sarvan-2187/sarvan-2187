@@ -12,7 +12,15 @@
 
 - ⚙️ Frontend & Backend Development  
 - 🧠 Foundational Machine Learning Concepts  
-- 📈 Data Structures & Algorithms for Problem Solving  
+- 📈 Data Structures & Algorithms for Problem Solving
+
+<p align="left">
+  I’m currently building:
+</p>
+
+- ⚙️ AI Powered SaaS
+- 🧠 ML Projects  
+- 📈 SQL Projects 
 
 <p align="left">
   My learning extends beyond coursework—I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. I'm particularly interested in building applications that are both functional and secure. Right now, I'm diving deep into areas like ethical hacking, machine learning, and secure application development to better understand the intersection of AI and Web Development.
