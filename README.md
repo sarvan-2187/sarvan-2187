@@ -18,9 +18,9 @@
   I’m currently building:
 </p>
 
-- ⚙️ AI Powered SaaS
-- 🧠 ML Projects  
-- 📈 SQL Projects 
+-  AI Powered SaaS
+-  ML Projects  
+-  SQL Projects 
 
 <p align="left">
   My learning extends beyond coursework—I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. I'm particularly interested in building applications that are both functional and secure. Right now, I'm diving deep into areas like ethical hacking, machine learning, and secure application development to better understand the intersection of AI and Web Development.
