@@ -10,9 +10,9 @@
   I’m actively building skills in:
 </p>
 
-- ⚙️ Frontend & Backend Development  
-- 🧠 Foundational Machine Learning Concepts  
-- 📈 Data Structures & Algorithms for Problem Solving
+- Frontend & Backend Development  
+- Foundational Machine Learning Concepts  
+- Data Structures & Algorithms for Problem Solving
 
 <p align="left">
   I’m currently building:
