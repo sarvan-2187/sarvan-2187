@@ -8,6 +8,7 @@
   I’m actively building skills in:
 </p>
 
+- Haskell Programming
 - Frontend & Backend Development  
 - Foundational Machine Learning Concepts  
 - Data Structures & Algorithms for Problem Solving
