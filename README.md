@@ -27,7 +27,3 @@
 <p align="left">
   I believe in continuous learning and using technology to solve real-world challenges. Let’s connect and innovate together!
 </p>
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvan-2187&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" />
-</div>
