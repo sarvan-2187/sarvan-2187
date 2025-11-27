@@ -8,18 +8,10 @@
   I’m actively building skills in:
 </p>
 
-- Haskell Programming
+- Haskell and C Programming
 - Frontend & Backend Development  
 - Foundational Machine Learning Concepts  
 - Data Structures & Algorithms for Problem Solving
-
-<p align="left">
-  I’m currently building:
-</p>
-
--  AI Powered SaaS
--  ML Projects  
--  SQL Projects 
 
 <p align="left">
   My learning extends beyond coursework—I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. I'm particularly interested in building applications that are both functional and secure.
