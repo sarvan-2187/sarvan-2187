@@ -14,7 +14,7 @@
 - Data Structures & Algorithms for Problem Solving
 
 <p align="left">
-  My learning extends beyond coursework—I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. I'm particularly interested in building applications that are both functional and secure.
+  My learning extends beyond coursework -> I try to work on projects to reinforce concepts that I've learned and occasionally practice DSA problems to enhance my problem-solving abilities. I'm particularly interested in building applications that are both functional and secure.
 </p>
 <p align="left">
   I believe in continuous learning and using technology to solve real-world challenges. Let’s connect and innovate together!
