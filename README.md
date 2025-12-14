@@ -2,6 +2,7 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&duration=1500&pause=1000&color=05F70C&width=435&lines=Hi+I'm+Sarvan+Kumar;I'm+a+Frontend+Developer;I'm+a+Problem+Solver;I'm+a+Next.js+Developer;I'm+a+Web+Dev+Mentor;I'm+Currently+Learning+C%2B%2B" alt="Typing SVG" /></a>
 </div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarvan._.21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarampalli-sarvan-kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sarvankumar2187) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarvankumarnagarampalli478@gmail.com) 
 
