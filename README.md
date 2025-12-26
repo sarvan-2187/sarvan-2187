@@ -19,9 +19,9 @@
 
 ## Tech Stack
 
-### Languages
+### Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,git,github,linux,vscode" />
 </p>
 
 ### Web & Database
@@ -29,7 +29,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,mysql,postgres,supabase" />
 </p>
 
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
