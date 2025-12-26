@@ -5,12 +5,7 @@
 
 <p align="left">
   Ever since I've been young, I had a great interest in technology, and ever since then I've wanted to build a solid foundation in programming. I'm currently pursuing a <strong>B.Tech in Computer Science</strong> at Amrita Vishwa Vidyapeetham, Chennai Campus.<br>
-  
-  I’m actively building skills in:
-</p>
 
-- Foundational Machine Learning Concepts  
-- Data Structures & Algorithms for Problem Solving
 
 <p align="left">
   I believe in continuous learning and using technology to solve real-world challenges. Let’s connect and innovate together!
