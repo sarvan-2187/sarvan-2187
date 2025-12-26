@@ -24,14 +24,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py" />
 </p>
 
-### Web
+### Web & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
-</p>
-
-### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,mysql,postgres,supabase" />
 </p>
 
 ### Tools
