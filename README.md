@@ -29,9 +29,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
 </p>
 
-### Backend & Database
+### Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,mysql,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </p>
 
 ### Tools
