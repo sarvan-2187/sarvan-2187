@@ -17,46 +17,24 @@
 </p>
 
 
-## Tech Stack & Tools
+## Tech Stack
 
-### Programming Languages
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,sql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,py" />
 </p>
 
----
-
-### Web Development
+### Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
 </p>
 
----
-
-### AI / Data & Backend
+### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres,mongodb,supabase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=express,mysql,postgres,supabase" />
 </p>
 
----
-
-### Tools, Platforms & DevOps
+### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare,workers&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
-
----
-
-### Design & Productivity
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,latex,notion,postman,vscode&perline=5" />
-</p>
-
----
-
-### Currently Exploring
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,graphql,redis&perline=4" />
-</p>
-
----
