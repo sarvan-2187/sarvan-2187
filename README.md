@@ -21,7 +21,7 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py" />
 </p>
 
 ### Web
