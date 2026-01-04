@@ -13,7 +13,7 @@
 
 
 ## Tech Stack
-<div className="grid grid-cols-2">
+<div class="grid grid-cols-2">
   <div>
       <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,java,md,git,github,linux,vscode,postman" />
   </div>
