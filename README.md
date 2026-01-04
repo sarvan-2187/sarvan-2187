@@ -16,7 +16,7 @@
 
 ### Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,git,github,linux,vscode,postman" />
 </p>
 
 ### Web & Database
