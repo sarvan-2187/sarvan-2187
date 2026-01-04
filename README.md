@@ -13,21 +13,14 @@
 
 
 ## Tech Stack
-<div class="grid grid-cols-2">
+
+<div align="left" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px;">
   <div>
-      <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,java,md,git,github,linux,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,java,md,git,github,linux,vscode,postman" />
   </div>
   <div>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,postgres,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,postgres,supabase" />
   </div>
 </div>
-### Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,java,md,git,github,linux,vscode,postman" />
-</p>
 
-### Web & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,postgres,supabase" />
-</p>
 
