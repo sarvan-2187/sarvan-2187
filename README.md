@@ -24,7 +24,7 @@
 </div>
 
 ## Socials
-<div align="left" style="display: flex; flex-direction:row; gap: 12px;">
+<div align="left">
   <div>
     <a href="https://www.instagram.com/sarvan._.21/" target="_blank" ><img src="https://skillicons.dev/icons?i=instagram" /></a>
   </div>
