@@ -24,11 +24,9 @@
 </div>
 
 ## Socials
-<div align="left">
+<div align="left" style="display: grid; grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 12px;">
   <div>
     <a href="https://www.instagram.com/sarvan._.21/" target="_blank" ><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  </div>
-  <div>
     <a href="https://www.linkedin.com/in/nagarampalli-sarvan-kumar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   </div>
 </div>
