@@ -21,6 +21,6 @@
 
 ### Web & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,mysql,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,postgres,supabase" />
 </p>
 
