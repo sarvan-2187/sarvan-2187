@@ -16,10 +16,10 @@
 
 <div align="left" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,java,md,git,github,linux,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,java,md,git,github,linux" />
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,postgres,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,supabase, vscode, postman" />
   </div>
 </div>
 
