@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py,java,md,git,github,linux" />
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,supabase, vscode, postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,supabase, vscode, postman"/>
   </div>
 </div>
 
