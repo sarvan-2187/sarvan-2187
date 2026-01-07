@@ -31,11 +31,11 @@
 
 ## Socials
 
-<p align="left">
+<h2 align="left">
   <a href="https://www.instagram.com/sarvan.tsx/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/nagarampalli-sarvan-kumar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
+</h2>
