@@ -22,11 +22,11 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,md,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,git,github" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,supabase,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,mysql,postman" />
 </p>
 
 ## Socials
