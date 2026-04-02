@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&fontColor=FFFFFF" width="100%"/>
-</div>
-
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img
