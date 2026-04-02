@@ -22,10 +22,10 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,ts,js,go,github" />
+  <img src="https://skillicons.dev/icons?i=java,py,ts,js,go" />
 </p>
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,react,nextjs,nodejs,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=mongo,react,nextjs,nodejs,mysql" />
 </p>
