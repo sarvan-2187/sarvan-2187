@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&fontColor=FFFFFF" width="100%"/>
+</div>
+
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1500&pause=1000&color=05F70C&width=435&lines=Hi+I'm+Sarvan+Kumar;I'm+a+Frontend+Developer;I'm+a+Problem+Solver"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1500&pause=1000&color=FFFFFF&width=435&lines=Hi+I'm+Sarvan+Kumar;I'm+a+Frontend+Developer;I'm+a+Problem+Solver"
       alt="Typing SVG"
     />
   </a>
@@ -25,6 +29,12 @@
   <img src="https://skillicons.dev/icons?i=java,py,ts,js,go,github" />
 </p>
 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,react,nextjs,nodejs,mysql,postman" />
 </p>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer&fontColor=FFFFFF" width="100%"/>
+</div>
