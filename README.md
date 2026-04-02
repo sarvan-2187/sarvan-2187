@@ -17,7 +17,7 @@
 <p align="left">
   I like building things more than talking about building things.
   If something you're working on sounds interesting, reach out.
-</p>>
+</p>
 
 ## Tech Stack
 
