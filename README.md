@@ -28,11 +28,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,react,nextjs,nodejs,mysql,postman" />
 </p>
-
-## Socials
-
-<h2 align="left">
-  <a href="https://www.linkedin.com/in/nagarampalli-sarvan-kumar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</h2>
