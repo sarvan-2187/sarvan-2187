@@ -29,8 +29,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,react,nextjs,nodejs,mysql,postman" />
 </p>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer&fontColor=FFFFFF" width="100%"/>
-</div>
