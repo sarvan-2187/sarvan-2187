@@ -8,16 +8,16 @@
 </div>
 
 <p align="left">
-  Ever since I've been young, I’ve had a strong interest in technology and a desire
-  to build a solid foundation in programming. I’m currently pursuing a
-  <strong>B.Tech in Computer Science</strong> at Amrita Vishwa Vidyapeetham,
+  I've been messing around with computers since I was pretty young. I don't really
+  have a neat origin story, just kept tinkering until it turned into an actual degree.
+  Currently a second-year <strong>B.Tech CS</strong> student at Amrita Vishwa Vidyapeetham,
   Chennai Campus.
 </p>
 
 <p align="left">
-  I believe in continuous learning and using technology to solve real-world challenges.
-  Let’s connect and innovate together!
-</p>
+  I like building things more than talking about building things.
+  If something you're working on sounds interesting, reach out.
+</p>>
 
 ## Tech Stack
 
