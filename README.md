@@ -29,3 +29,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongo,express,react,nextjs,nodejs,mysql" />
 </p>
+
+## My Stats
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
