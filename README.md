@@ -6,14 +6,16 @@
     />
   </a>
 </div>
-<a href="https://www.sarvakumar.in" target="_blank">View My Work</a>
+
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
   have a neat origin story, just kept tinkering until it turned into an actual degree.
   Currently a second-year <strong>B.Tech CS</strong> student at Amrita Vishwa Vidyapeetham,
   Chennai Campus.
 </p>
-
+<br></br>
+<a href="https://www.sarvakumar.in" target="_blank">View My Work</a>
+<br></br>
 <p align="left">
   I like building things more than talking about building things.
   If something you're working on sounds interesting, reach out.
