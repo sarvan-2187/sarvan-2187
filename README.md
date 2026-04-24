@@ -13,7 +13,6 @@
   Currently a second-year <strong>B.Tech CS</strong> student at Amrita Vishwa Vidyapeetham,
   Chennai Campus.
 </p>
-[![Portfolio](https://img.shields.io/badge/Sarvan%20Kumar-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarvankumar.in)
 
 <p align="left">
   I like building things more than talking about building things.
