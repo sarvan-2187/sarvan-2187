@@ -22,12 +22,12 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,ts,js,go" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,mysql" />
 </p>
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongo,express,react,nextjs,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongo,express,react,nextjs,nodejs" />
 </p>
 
 ## My Stats
