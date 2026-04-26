@@ -27,7 +27,7 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongo,express,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,nextjs" />
 </p>
 
 ## My Stats
