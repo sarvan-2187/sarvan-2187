@@ -1,4 +1,8 @@
 ### Hi I am Sarvan Kumar 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-sarvankumar.in-blue?style=flat&logo=vercel&logoColor=white)](https://sarvankumar.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarampalli-sarvan-kumar)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/SarvanKumar2187)
+
 
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
