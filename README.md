@@ -46,7 +46,7 @@
     <td width="50%" valign="top">
 
 ## Streak 💪
-<img width="100%" height="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=dark" />
+<img width="98%" height="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=dark" />
 
 </td>
   </tr>
