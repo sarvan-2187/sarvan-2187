@@ -19,21 +19,38 @@
   If something you're working on sounds interesting, reach out.
 </p>
 
-## Tech Stack
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
 
+## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,mysql" />
 </p>
-
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,nextjs" />
 </p>
 
-## My Stats
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+</td>
+    <td width="50%" valign="top">
 
 ## Github Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&rank=S,B&theme=darkhub&margin-w=15" alt="sarvan-2187" /></a> </p>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&rank=S,B&theme=darkhub&margin-w=15&column=3&no-frame=true" alt="sarvan-2187" />
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+## My Stats
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=8&card_width=320&theme=dark" />
+
+</td>
+    <td width="50%" valign="top">
+
+## Streak
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=dark" />
+
+</td>
+  </tr>
+</table>
