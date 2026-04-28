@@ -43,13 +43,13 @@
     <td width="50%" valign="top">
 
 ## My Stats
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=3&card_width=340&theme=dark" />
 
 </td>
     <td width="50%" valign="top">
 
 ## Streak
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=dark" />
+<img width="100%" height="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=dark" />
 
 </td>
   </tr>
