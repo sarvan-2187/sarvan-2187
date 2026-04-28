@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarampalli-sarvan-kumar)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/SarvanKumar2187)
 
+### My Story 😎
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
   have a neat origin story, just kept tinkering until it turned into an actual degree.
