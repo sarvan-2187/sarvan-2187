@@ -55,7 +55,7 @@
 ## Coding Stats 💻 
 
 <p align="left">
-  <img src="./codolio.svg" />
+  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/main/codolio.svg?cache_bust=1" />
 </p>
 
 ### Ping Me - Let’s Ship Something 📧
