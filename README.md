@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarampalli-sarvan-kumar)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/SarvanKumar2187)
 
-
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
   have a neat origin story, just kept tinkering until it turned into an actual degree.
@@ -16,37 +15,41 @@
   If something you're working on sounds interesting, reach out.
 </p>
 
+### Stats & Stack 📊
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
 
-## Tech Stack 💻
-<p align="left">
+<p align="center"><b>Tech Stack</b></p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,mysql" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,nextjs" />
 </p>
 
 </td>
     <td width="50%" valign="top">
 
-## Github Trophies 🏆
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&rank=S,B&theme=darkhub&margin-w=15&column=3&no-frame=true" alt="sarvan-2187" />
+<p align="center"><b>Github Trophies</b></p>
+<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&rank=S,B&theme=darkhub&margin-w=15&column=3&no-frame=true" alt="sarvan-2187" />
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-## My Stats 📊
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=3&card_width=340&theme=dark" />
+<p align="center"><b>My Stats</b></p>
+<div align="center"><img align="center" width="95%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=3&card_width=340&theme=dark" /> </div>
 
 </td>
     <td width="50%" valign="top">
 
-## Streak 💪
-<img width="98%" height="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=dark" />
+<p align="center"><b>Consistent</b></p>
+
+<div align="center"><img width="98%" height="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=dark" /></div>
 
 </td>
   </tr>
