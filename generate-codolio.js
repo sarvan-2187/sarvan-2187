@@ -24,64 +24,67 @@ async function generateCard() {
         stats.geeksforgeeks = p.totalQuestionStats?.totalQuestionCounts || 0;
       }
 
+      // ✅ Sum ALL HackerRank categories (matches Codolio = 84)
       if (name === "hackerrank") {
-        const ps = p.categoryQuestionStats?.categoryQuestionStatList?.find(
-          (s) => s.category === "Problem Solving"
-        );
-        stats.hackerrank = ps?.count || 0;
+        const list = p.categoryQuestionStats?.categoryQuestionStatList || [];
+        stats.hackerrank = list.reduce((sum, item) => sum + (item.count || 0), 0);
       }
     });
 
     const total =
       stats.leetcode + stats.geeksforgeeks + stats.hackerrank || 1;
 
-    const percent = (v) => ((v / total) * 100).toFixed(1);
-    const bar = (v) => (v / total) * 360; // width scaling
-
+    // percentages
     const lcPercent = (stats.leetcode / total) * 100;
-const gfgPercent = (stats.geeksforgeeks / total) * 100;
-const hrPercent = (stats.hackerrank / total) * 100;
+    const gfgPercent = (stats.geeksforgeeks / total) * 100;
+    const hrPercent = (stats.hackerrank / total) * 100;
 
-// width scaling (total bar = 460px)
-const lcWidth = (lcPercent / 100) * 460;
-const gfgWidth = (gfgPercent / 100) * 460;
-const hrWidth = (hrPercent / 100) * 460;
+    // ✅ FIXED: match background width EXACTLY
+    const totalWidth = 472;
 
-const svg = `
-<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg">
+    const lcWidth = Math.round((stats.leetcode / total) * totalWidth);
+    const gfgWidth = Math.round((stats.geeksforgeeks / total) * totalWidth);
+    const hrWidth = totalWidth - lcWidth - gfgWidth;
+
+    const svg = `
+<svg width="520" height="200" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Background -->
-  <rect x="0" y="0" width="500" height="180" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0" y="0" width="520" height="200" rx="16" fill="#0d1117" stroke="#30363d"/>
 
-  <!-- Title -->
-  <text x="20" y="35" fill="#ffffff" font-size="18" font-weight="600" font-family="Segoe UI, sans-serif">
+  <!-- Header -->
+  <text x="24" y="42" fill="#ffffff" font-size="22" font-weight="700" font-family="Segoe UI, sans-serif">
     Coding Stats
   </text>
 
-  <!-- Stacked Bar Background -->
-  <rect x="20" y="60" width="460" height="10" rx="5" fill="#30363d"/>
+  <text x="496" y="42" text-anchor="end" fill="#c9d1d9" font-size="16" font-weight="600" font-family="Segoe UI, sans-serif">
+    Total: ${total}
+  </text>
+
+  <!-- Bar Background -->
+  <rect x="24" y="70" width="${totalWidth}" height="12" rx="6" fill="#30363d"/>
 
   <!-- Segments -->
-  <rect x="20" y="60" width="${lcWidth}" height="10" rx="5" fill="#FFA116"/>
-  <rect x="${20 + lcWidth}" y="60" width="${gfgWidth}" height="10" fill="#2F8D46"/>
-  <rect x="${20 + lcWidth + gfgWidth}" y="60" width="${hrWidth}" height="10" rx="5" fill="#2EC866"/>
+  <rect x="24" y="70" width="${lcWidth}" height="12" rx="6" fill="#facc15"/>
+  <rect x="${24 + lcWidth}" y="70" width="${gfgWidth}" height="12" fill="#3b82f6"/>
+  <rect x="${24 + lcWidth + gfgWidth}" y="70" width="${hrWidth}" height="12" rx="6" fill="#22c55e"/>
 
   <!-- Legend -->
   <!-- LeetCode -->
-  <circle cx="30" cy="100" r="5" fill="#FFA116"/>
-  <text x="45" y="104" fill="#c9d1d9" font-size="13" font-family="Segoe UI, sans-serif">
+  <circle cx="30" cy="115" r="6" fill="#facc15"/>
+  <text x="45" y="120" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
     LeetCode ${lcPercent.toFixed(1)}%
   </text>
 
   <!-- GFG -->
-  <circle cx="30" cy="125" r="5" fill="#2F8D46"/>
-  <text x="45" y="129" fill="#c9d1d9" font-size="13" font-family="Segoe UI, sans-serif">
+  <circle cx="30" cy="145" r="6" fill="#3b82f6"/>
+  <text x="45" y="150" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
     GFG ${gfgPercent.toFixed(1)}%
   </text>
 
   <!-- HackerRank -->
-  <circle cx="250" cy="100" r="5" fill="#2EC866"/>
-  <text x="265" y="104" fill="#c9d1d9" font-size="13" font-family="Segoe UI, sans-serif">
+  <circle cx="270" cy="115" r="6" fill="#22c55e"/>
+  <text x="285" y="120" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
     HackerRank ${hrPercent.toFixed(1)}%
   </text>
 
@@ -89,9 +92,9 @@ const svg = `
 `;
 
     fs.writeFileSync("codolio.svg", svg);
-    console.log("🔥 Modern SVG generated!");
+    console.log("🔥 SVG generated successfully!");
   } catch (err) {
-    console.error(err);
+    console.error("Error:", err);
     process.exit(1);
   }
 }
