@@ -12,19 +12,23 @@
   If something you're working on sounds interesting, reach out.
 </p>
 
+### Tech Stack 💻
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,mysql,mongo,express,react,nodejs,nextjs" />
+</p>
+
+
 ### By the Numbers 📊
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-
-<p align="center"><b>Tech Stack</b></p>
+      
+<p align="center"><b>Where i Code</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,mysql" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,nextjs" />
+  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/main/codolio.svg?cache_bust=1" />
 </p>
 
 </td>
@@ -38,7 +42,7 @@
   <tr>
     <td width="50%" valign="top">
 
-<p align="center"><b>My Stats</b></p>
+<p align="center"><b>Most used </b></p>
 <div align="center"><img align="center" width="95%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=3&card_width=340&theme=dark" /> </div>
 
 </td>
@@ -51,12 +55,6 @@
 </td>
   </tr>
 </table>
-
-## Coding Stats 💻 
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/main/codolio.svg?cache_bust=1" />
-</p>
 
 ### Ping Me - Let’s Ship Something 📧
 > open to collabs · internships · cool problems
