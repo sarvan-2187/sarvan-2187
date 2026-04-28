@@ -1,5 +1,4 @@
 const fs = require("fs");
-const fetch = require("node-fetch");
 
 async function generateCard() {
   try {
@@ -42,6 +41,7 @@ async function generateCard() {
     console.log("SVG generated!");
   } catch (err) {
     console.error(err);
+    process.exit(1);
   }
 }
 
