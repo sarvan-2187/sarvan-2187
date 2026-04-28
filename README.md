@@ -1,7 +1,4 @@
-### Hi I am Sarvan Kumar 👋
-[![Portfolio](https://img.shields.io/badge/Portfolio-sarvankumar.in-blue?style=flat&logo=vercel&logoColor=white)](https://sarvankumar.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarampalli-sarvan-kumar)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white)](https://x.com/SarvanKumar2187)
+## Hi I am Sarvan Kumar 👋
 
 ### My Story 😎
 <p align="left">
@@ -10,13 +7,13 @@
   Currently a second-year <strong>B.Tech CS</strong> student at <strong>Amrita Vishwa Vidyapeetham,
   Chennai Campus</strong>.
 </p>
-
+<p>You can visit my portfolio at <a href="https://sarvankumar.in" target="_blank">www.sarvankumar.in</a></p>
 <p align="left">
   I like building things more than talking about building things.
   If something you're working on sounds interesting, reach out.
 </p>
 
-### Stats & Stack 📊
+### By the Numbers 📊
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -55,3 +52,12 @@
 </td>
   </tr>
 </table>
+
+### Ping Me - Let’s Ship Something 📧
+> open to collabs · internships · cool problems
+
+Reach out to me at [sarvankumarnagaramapalli478@gmail.com](mailto:sarvankumarnagaramapalli478@gmail.com)
+<br/>
+Follow / reach out on [Linkedin](https://linkedin.com/in/nagarampalli-sarvan-kumar)
+<br/>
+Shoot me a DM on [X (Twitter)](https://x.com/SarvanKumar2187)
