@@ -28,7 +28,7 @@
 <p align="center"><b>Where i Code</b></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/main/codolio.svg?cache_bust=1" />
+  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/main/codolio.svg" />
 </p>
 
 </td>
