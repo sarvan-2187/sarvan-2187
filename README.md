@@ -34,3 +34,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+
+## Github Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&rank=S,B&theme=darkhub&margin-w=15" alt="sarvan-2187" /></a> </p>
