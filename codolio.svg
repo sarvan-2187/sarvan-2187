@@ -1,32 +1,39 @@
 
-<svg width="420" height="200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title { font: bold 20px sans-serif; fill: #00f5c4; }
-    .label { font: 13px sans-serif; fill: #c9d1d9; }
-    .value { font: bold 13px sans-serif; fill: #ffffff; }
-  </style>
+<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="100%" height="100%" rx="14" fill="#0d1117"/>
+  <!-- Background -->
+  <rect x="0" y="0" width="500" height="180" rx="12" fill="#0d1117" stroke="#30363d"/>
 
-  <text x="20" y="35" class="title">Coding Stats</text>
-  <text x="300" y="35" class="value">Total: 44</text>
+  <!-- Title -->
+  <text x="20" y="35" fill="#ffffff" font-size="18" font-weight="600" font-family="Segoe UI, sans-serif">
+    Coding Stats
+  </text>
 
+  <!-- Stacked Bar Background -->
+  <rect x="20" y="60" width="460" height="10" rx="5" fill="#30363d"/>
+
+  <!-- Segments -->
+  <rect x="20" y="60" width="20.90909090909091" height="10" rx="5" fill="#FFA116"/>
+  <rect x="40.90909090909091" y="60" width="376.3636363636364" height="10" fill="#2F8D46"/>
+  <rect x="417.27272727272725" y="60" width="62.72727272727272" height="10" rx="5" fill="#2EC866"/>
+
+  <!-- Legend -->
   <!-- LeetCode -->
-  <text x="20" y="75" class="label">LeetCode (4.5%)</text>
-  <rect x="20" y="85" width="360" height="10" rx="5" fill="#30363d"/>
-  <rect x="20" y="85" width="16.363636363636363" height="10" rx="5" fill="#FFA116"/>
-  <text x="380" y="75" class="value" text-anchor="end">2</text>
+  <circle cx="30" cy="100" r="5" fill="#FFA116"/>
+  <text x="45" y="104" fill="#c9d1d9" font-size="13" font-family="Segoe UI, sans-serif">
+    LeetCode 4.5%
+  </text>
 
   <!-- GFG -->
-  <text x="20" y="120" class="label">GFG (81.8%)</text>
-  <rect x="20" y="130" width="360" height="10" rx="5" fill="#30363d"/>
-  <rect x="20" y="130" width="294.54545454545456" height="10" rx="5" fill="#2F8D46"/>
-  <text x="380" y="120" class="value" text-anchor="end">36</text>
+  <circle cx="30" cy="125" r="5" fill="#2F8D46"/>
+  <text x="45" y="129" fill="#c9d1d9" font-size="13" font-family="Segoe UI, sans-serif">
+    GFG 81.8%
+  </text>
 
   <!-- HackerRank -->
-  <text x="20" y="165" class="label">HackerRank (13.6%)</text>
-  <rect x="20" y="175" width="360" height="10" rx="5" fill="#30363d"/>
-  <rect x="20" y="175" width="49.090909090909086" height="10" rx="5" fill="#2EC866"/>
-  <text x="380" y="165" class="value" text-anchor="end">6</text>
+  <circle cx="250" cy="100" r="5" fill="#2EC866"/>
+  <text x="265" y="104" fill="#c9d1d9" font-size="13" font-family="Segoe UI, sans-serif">
+    HackerRank 13.6%
+  </text>
 
 </svg>
