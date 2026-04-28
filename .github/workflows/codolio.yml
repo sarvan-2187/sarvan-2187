@@ -28,3 +28,7 @@ jobs:
           git add codolio.svg
           git commit -m "Update Codolio stats" || echo "No changes"
           git push
+
+      - name: Output commit SHA
+        id: vars
+        run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
