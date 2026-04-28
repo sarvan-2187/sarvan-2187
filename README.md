@@ -52,6 +52,12 @@
   </tr>
 </table>
 
+## Coding Stats 💻 
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/main/codolio.svg" />
+</p>
+
 ### Ping Me - Let’s Ship Something 📧
 > open to collabs · internships · cool problems
 
