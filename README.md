@@ -25,7 +25,7 @@
   <tr>
     <td width="50%" valign="top">
       
-<p align="center"><b>Where i Code</b></p>
+<p align="center"><b>Where I Code</b></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/main/codolio.svg?ts=123" />
