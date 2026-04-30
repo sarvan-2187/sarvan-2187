@@ -1,5 +1,9 @@
 ## Hi I am Sarvan Kumar 👋
 
+<!--STARS_START-->
+![Total Stars](https://img.shields.io/badge/total_stars-12-blue?style=flat&logo=github)
+<!--STARS_END-->
+
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
   have a neat origin story, just kept tinkering until it turned into an actual degree.
