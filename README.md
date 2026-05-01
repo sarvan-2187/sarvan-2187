@@ -61,7 +61,6 @@
 </table>
 
 ### Ping Me - Let’s Ship Something 📧
-> open to collabs · internships · cool problems
 
 Reach out to me at [sarvankumarnagaramapalli478@gmail.com](mailto:sarvankumarnagaramapalli478@gmail.com)
 <br/>
