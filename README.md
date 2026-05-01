@@ -1,4 +1,4 @@
-## Hi I am Sarvan Kumar 👋
+## Hi I am Sarvan Kumar!
 
 <!--STARS_START-->
 ![Total Stars](https://img.shields.io/badge/total_stars-12-blue?style=flat&logo=github)
@@ -16,14 +16,14 @@
   If something you're working on sounds interesting, reach out.
 </p>
 
-### Tech Stack 💻
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,mysql,mongo,express,react,nodejs,nextjs" />
 </p>
 
 
-### By the Numbers 📊
+### By the Numbers
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
