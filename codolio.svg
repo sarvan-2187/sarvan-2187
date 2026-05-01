@@ -1,0 +1,43 @@
+
+<svg width="520" height="200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="520" height="200" rx="16" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Header -->
+  <text x="24" y="42" fill="#ffffff" font-size="22" font-weight="700" font-family="Segoe UI, sans-serif">
+    Coding Stats
+  </text>
+
+  <text x="496" y="42" text-anchor="end" fill="#c9d1d9" font-size="16" font-weight="600" font-family="Segoe UI, sans-serif">
+    Total: 84
+  </text>
+
+  <!-- Bar Background -->
+  <rect x="24" y="70" width="472" height="12" rx="6" fill="#30363d"/>
+
+  <!-- Segments -->
+  <rect x="24" y="70" width="11" height="12" rx="6" fill="#facc15"/>
+  <rect x="35" y="70" width="202" height="12" fill="#3b82f6"/>
+  <rect x="237" y="70" width="259" height="12" rx="6" fill="#22c55e"/>
+
+  <!-- Legend -->
+  <!-- LeetCode -->
+  <circle cx="30" cy="115" r="6" fill="#facc15"/>
+  <text x="45" y="120" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
+    LeetCode 2.4%
+  </text>
+
+  <!-- GFG -->
+  <circle cx="30" cy="145" r="6" fill="#3b82f6"/>
+  <text x="45" y="150" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
+    GFG 42.9%
+  </text>
+
+  <!-- HackerRank -->
+  <circle cx="270" cy="115" r="6" fill="#22c55e"/>
+  <text x="285" y="120" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
+    HackerRank 54.8%
+  </text>
+
+</svg>
