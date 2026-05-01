@@ -39,7 +39,7 @@
     <td width="50%" valign="top">
 
 <p align="center"><b>Github Trophies</b></p>
-<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&rank=S,B&theme=darkhub&margin-w=15&column=3&no-frame=true" alt="sarvan-2187" />
+<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&rank=S,A&theme=darkhub&margin-w=15&column=3&no-frame=true" alt="sarvan-2187" />
 
 </td>
   </tr>
