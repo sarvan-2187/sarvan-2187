@@ -32,7 +32,7 @@
 <p align="center"><b>Where I Code</b></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/main/codolio.svg?ts=123" />
+  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/db19d4bfda01423fa966dac4547c7518e47d046f/codolio.svg" />
 </p>
 
 </td>
