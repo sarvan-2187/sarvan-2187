@@ -7,7 +7,7 @@
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
   have a neat origin story, just kept tinkering until it turned into an actual degree.
-  Currently a second-year <strong>B.Tech CS</strong> student at <strong>Amrita Vishwa Vidyapeetham,
+  Currently a third-year <strong>B.Tech CS</strong> student at <strong>Amrita Vishwa Vidyapeetham,
   Chennai Campus</strong>.
 </p>
 <p>You can visit my portfolio at <a href="https://sarvankumar.in" target="_blank">www.sarvankumar.in</a></p>
