@@ -1,4 +1,4 @@
-## Hi I am Sarvan Kumar!
+## Hi I am Sarvan Kumar! 😎
 
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
