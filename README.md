@@ -46,8 +46,11 @@
   <tr>
     <td width="50%" valign="top">
 
-<p align="center"><b>Most used </b></p>
-<div align="center"><img align="center" width="95%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvan-2187&layout=compact&langs_count=3&card_width=340&theme=dark" /> </div>
+<p align="center"><b>Contribution Activity</b></p>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarvan-2187&theme=react-dark&bg_color=0d1117&hide_border=true&line=00f5c4&point=7b61ff&area=true" />
+</div>
 
 </td>
     <td width="50%" valign="top">
