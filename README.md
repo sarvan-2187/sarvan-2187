@@ -25,7 +25,7 @@
   <tr>
     <td width="50%" valign="top">
       
-<p align="center"><b>Where I Code</b></p>
+<p align="center"><b>Coding Stats</b></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/db19d4bfda01423fa966dac4547c7518e47d046f/codolio.svg" />
@@ -34,29 +34,12 @@
 </td>
     <td width="50%" valign="top">
 
-<p align="center"><b>Github Trophies</b></p>
-<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&rank=S,A&theme=darkhub&margin-w=15&column=3&no-frame=true" alt="sarvan-2187" />
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-<p align="center"><b>Contribution Activity</b></p>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarvan-2187&theme=react-dark&bg_color=0d1117&hide_border=true&line=00f5c4&point=7b61ff&area=true" />
-</div>
-
-</td>
-    <td width="50%" valign="top">
-
-<p align="center"><b>Consistent</b></p>
+<p align="center"><b>Development Stats</b></p>
 
 <div align="center"><img width="98%" height="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=dark" /></div>
-
 </td>
   </tr>
+  
 </table>
 
 ### Ping Me - Let’s Ship Something 📧
