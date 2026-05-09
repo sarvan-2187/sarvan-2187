@@ -62,7 +62,7 @@ Postman
 </td>
 <td align="center">
 
-<a href="https://badges.parchment.com/public/assertions/xkHwp2KZRIOayjIDMuJyHg">
+<a href="https://edu.google.accredible.com/9ac77ba7-0ef6-4805-86f7-23a9f2e48bad#acc.YXODZu8H">
   <img width="120px" height="120px"
        src="./gemini-uni.png" />
 </a>
