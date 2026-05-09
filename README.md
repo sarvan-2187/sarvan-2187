@@ -42,6 +42,28 @@
   
 </table>
 
+## Certifications
+
+<table width="100%" border="0" cellspacing="12" cellpadding="12">
+
+<tr>
+<td align="center">
+
+<a href="https://badges.parchment.com/public/assertions/xkHwp2KZRIOayjIDMuJyHg">
+  <img width="120px" height="120px"
+       src="https://api.badgr.io/public/assertions/xkHwp2KZRIOayjIDMuJyHg/image" />
+</a>
+
+<br/>
+<b>Postman API Fundamentals</b>
+<br/>
+Postman
+
+</td>
+</tr>
+
+</table>
+
 ### Ping Me - Let’s Ship Something 📧
 
 Reach out to me at [sarvankumarnagaramapalli478@gmail.com](mailto:sarvankumarnagaramapalli478@gmail.com)
