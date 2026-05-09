@@ -73,6 +73,19 @@ Postman
 Google Gemini
 
 </td>
+<td align="center">
+
+<a href="https://credentials.databricks.com/b8cc4763-1b59-4012-a045-239bd6ccc5d9#acc.PaGxevCN">
+  <img width="120px" height="120px"
+       src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/148263421" />
+</a>
+
+<br/>
+<b>Gen AI Fundamentals</b>
+<br/>
+Databricks
+
+</td>
 </tr>
 
 </table>
