@@ -42,7 +42,7 @@
   
 </table>
 
-### Certifications
+### Badges
 
 <table width="100%" border="0" cellspacing="12" cellpadding="12">
 
