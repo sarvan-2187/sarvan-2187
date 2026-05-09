@@ -60,6 +60,19 @@
 Postman
 
 </td>
+<td align="center">
+
+<a href="https://badges.parchment.com/public/assertions/xkHwp2KZRIOayjIDMuJyHg">
+  <img width="120px" height="120px"
+       src="./gemini-uni.png" />
+</a>
+
+<br/>
+<b>University Student</b>
+<br/>
+Google Gemini
+
+</td>
 </tr>
 
 </table>
