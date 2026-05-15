@@ -86,6 +86,19 @@ Google Gemini
 Databricks
 
 </td>
+<td align="center">
+
+<a href="https://verify.skilljar.com/c/6orp6n6akhx8">
+  <img width="120px" height="120px"
+       src="./notion.png" />
+</a>
+
+<br/>
+<b>Academy Essentials</b>
+<br/>
+Notion
+
+</td>
 </tr>
 
 </table>
