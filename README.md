@@ -90,7 +90,7 @@ Databricks
 
 </table>
 
-### Ping Me - Let’s Ship Something 📧
+### Ping Me - Let’s Ship Something
 
 Reach out to me at [sarvankumarnagaramapalli478@gmail.com](mailto:sarvankumarnagaramapalli478@gmail.com)
 <br/>
