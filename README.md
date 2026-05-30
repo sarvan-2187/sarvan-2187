@@ -1,6 +1,6 @@
-## Hi I am Sarvan Kumar! 😎
+## Hi I am Sarvan Kumar! ![GitHub Profile Views](https://gitviews.com/user/sarvan-2187.svg?style=flat&label-color=%23555&color=%23f59e0b)
 
-![GitHub Profile Views](https://gitviews.com/user/sarvan-2187.svg?style=flat&label-color=%23555&color=%23f59e0b) ![GitHub Repo Views](https://gitviews.com/user/sarvan-2187/repos.svg?style=flat&label-color=%23555&color=%23f59e0b)
+
 
 
 <p align="left">
