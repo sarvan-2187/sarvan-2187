@@ -42,66 +42,7 @@
   
 </table>
 
-### Badges
 
-<table width="100%" border="0" cellspacing="12" cellpadding="12">
-
-<tr>
-<td align="center">
-
-<a href="https://badges.parchment.com/public/assertions/xkHwp2KZRIOayjIDMuJyHg">
-  <img width="120px" height="120px"
-       src="https://api.badgr.io/public/assertions/xkHwp2KZRIOayjIDMuJyHg/image" />
-</a>
-
-<br/>
-<b>API Fundamentals</b>
-<br/>
-Postman
-
-</td>
-<td align="center">
-
-<a href="https://edu.google.accredible.com/9ac77ba7-0ef6-4805-86f7-23a9f2e48bad#acc.YXODZu8H">
-  <img width="150px" height="120px"
-       src="./gemini-uni-badge.png" />
-</a>
-
-<br/>
-<b>University Student</b>
-<br/>
-Google Gemini
-
-</td>
-<td align="center">
-
-<a href="https://credentials.databricks.com/b8cc4763-1b59-4012-a045-239bd6ccc5d9#acc.PaGxevCN">
-  <img width="120px" height="120px"
-       src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/148263421" />
-</a>
-
-<br/>
-<b>Gen AI Fundamentals</b>
-<br/>
-Databricks
-
-</td>
-<td align="center">
-
-<a href="https://verify.skilljar.com/c/6orp6n6akhx8">
-  <img width="120px" height="120px"
-       src="./notion.png" />
-</a>
-
-<br/>
-<b>Academy Essentials</b>
-<br/>
-Notion
-
-</td>
-</tr>
-
-</table>
 
 ### Ping Me - Let’s Ship Something
 
