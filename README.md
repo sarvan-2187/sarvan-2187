@@ -42,7 +42,7 @@
 <p align="center"><b>Coding Stats</b></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/db19d4bfda01423fa966dac4547c7518e47d046f/codolio.svg" />
+  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/5ac37494b380d68ba53dede280c67d5aff942720/codolio.svg" />
 </p>
 
 </td>
