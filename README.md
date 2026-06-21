@@ -1,7 +1,5 @@
-## Hi I am Sarvan Kumar! ![GitHub Profile Views](https://gitviews.com/user/sarvan-2187.svg?style=flat&label-color=%23555&color=%23f59e0b)
-
-
-
+## Hi I am Sarvan Kumar!  
+![GitHub Profile Views](https://gitviews.com/user/sarvan-2187.svg?style=for-the-badge&label-color=%23555&color=%23f59e0b)
 
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
@@ -10,6 +8,8 @@
   Chennai Campus</strong>.
 </p>
 <p>You can visit my portfolio at <a href="https://sarvankumar.in" target="_blank">www.sarvankumar.in</a></p>
+
+
 <p align="left">
   I like building things more than talking about building things.
   If something you're working on sounds interesting, reach out.
