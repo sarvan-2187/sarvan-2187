@@ -62,5 +62,3 @@
 Reach out to me at [sarvankumarnagaramapalli478@gmail.com](mailto:sarvankumarnagaramapalli478@gmail.com)
 <br/>
 Follow / reach out on [Linkedin](https://linkedin.com/in/nagarampalli-sarvan-kumar)
-<br/>
-Shoot me a DM on [X (Twitter)](https://x.com/SarvanKumar2187)
