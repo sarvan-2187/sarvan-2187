@@ -1,5 +1,4 @@
-## Hi I am Sarvan Kumar!  
-![GitHub Profile Views](https://gitviews.com/user/sarvan-2187.svg?style=for-the-badge&label-color=%23555&color=%23f59e0b)
+## Hi I am Sarvan Kumar!  ![GitHub Profile Views](https://gitviews.com/user/sarvan-2187.svg?style=flat&label-color=%23555&color=%23f59e0b)
 
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
