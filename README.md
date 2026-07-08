@@ -1,4 +1,6 @@
-## Hi I am Sarvan Kumar!  ![GitHub Profile Views](https://gitviews.com/user/sarvan-2187.svg?style=flat&label-color=%23555&color=%23f59e0b)
+<img src="./github.png" /> 
+
+---
 
 <p align="left">
   I've been messing around with computers since I was pretty young. I don't really
@@ -8,28 +10,10 @@
 </p>
 <p>You can visit my portfolio at <a href="https://sarvankumar.in" target="_blank">www.sarvankumar.in</a></p>
 
-
 <p align="left">
   I like building things more than talking about building things.
   If something you're working on sounds interesting, reach out.
 </p>
-
-### Tech Stack
-
-<p align="left">
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat&logo=openai&logoColor=white" />
-</p></p>
 
 
 ### By the Numbers
@@ -62,3 +46,7 @@
 Reach out to me at [sarvankumarnagaramapalli478@gmail.com](mailto:sarvankumarnagaramapalli478@gmail.com)
 <br/>
 Follow / reach out on [Linkedin](https://linkedin.com/in/nagarampalli-sarvan-kumar)
+
+<div align="center">
+  <img src="https://gitviews.com/user/sarvan-2187.svg?style=flat&label-color=%23555&color=%23f59e0b" />
+</div>
