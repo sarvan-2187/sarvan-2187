@@ -1,7 +1,7 @@
 
 <table width="100%">
   <tr>
-    <td width="70%" valign="middle">
+    <td width="65%" valign="middle">
       <img src="name.png" alt="Sarvan Kumar" width="100%" />
       <p align="center">
         Third-year <strong>B.Tech Computer Science</strong> student at
@@ -15,7 +15,7 @@
         <a href="https://linkedin.com/in/nagarampalli-sarvan-kumar"><img src="https://img.shields.io/badge/LinkedIn-connect-7aa2f7?style=flat&labelColor=0d1117" alt="LinkedIn" /></a>
       </p>
     </td>
-    <td width="30%" valign="middle" align="right">
+    <td width="35%" valign="middle" align="right">
       <img src="./sarvan.png" alt="ASCII art" width="100%" />
     </td>
   </tr>
