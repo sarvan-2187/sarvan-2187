@@ -4,7 +4,7 @@
     <td width="65%" valign="middle">
       <img src="name.png" alt="Sarvan Kumar" width="100%" />
       <p align="center">
-        Third-year <strong>B.Tech Computer Science</strong> student at
+        Third year <strong>B.Tech Computer Science</strong> student at
         <strong>Amrita Vishwa Vidyapeetham, Chennai Campus</strong>.
         I like building useful products, clean interfaces, automation, and small tools
         that make work feel lighter.
