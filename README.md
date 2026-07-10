@@ -16,7 +16,7 @@
       </p>
     </td>
     <td width="30%" valign="middle" align="right">
-      <img src="./ascii-art.png" alt="ASCII art" width="100%" />
+      <img src="./sarvan.png" alt="ASCII art" width="100%" />
     </td>
   </tr>
 </table>
