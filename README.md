@@ -1,23 +1,25 @@
-<img src="./github.png" /> 
 
----
-
-<p align="left">
-  I've been messing around with computers since I was pretty young. I don't really
-  have a neat origin story, just kept tinkering until it turned into an actual degree.
-  Currently a third-year <strong>B.Tech CS</strong> student at <strong>Amrita Vishwa Vidyapeetham,
-  Chennai Campus</strong>.
-</p>
-<p>You can visit my portfolio at <a href="https://sarvankumar.in" target="_blank">www.sarvankumar.in</a></p>
-
-<p align="left">
-  I like building things more than talking about building things.
-  If something you're working on sounds interesting, reach out.
-</p>
-
-
-### By the Numbers
-
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <img src="name.png" alt="Sarvan Kumar" width="100%" />
+      <p align="center">
+        Third-year <strong>B.Tech Computer Science</strong> student at
+        <strong>Amrita Vishwa Vidyapeetham, Chennai Campus</strong>.
+        I like building useful products, clean interfaces, automation, and small tools
+        that make work feel lighter.
+      </p>
+      <p>
+        <a href="https://sarvankumar.in"><img src="https://img.shields.io/badge/Portfolio-sarvankumar.in-6bbbca?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+        <a href="mailto:sarvankumarnagaramapalli478@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-ffb454?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+        <a href="https://linkedin.com/in/nagarampalli-sarvan-kumar"><img src="https://img.shields.io/badge/LinkedIn-connect-7aa2f7?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" /></a>
+      </p>
+    </td>
+    <td width="40%" valign="middle" align="right">
+      <img src="./ascii-art.png" alt="ASCII art" width="100%" />
+    </td>
+  </tr>
+</table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
@@ -38,14 +40,6 @@
   </tr>
   
 </table>
-
-
-
-### Ping Me - Let’s Ship Something
-
-Reach out to me at [sarvankumarnagaramapalli478@gmail.com](mailto:sarvankumarnagaramapalli478@gmail.com)
-<br/>
-Follow / reach out on [Linkedin](https://linkedin.com/in/nagarampalli-sarvan-kumar)
 
 <div align="center">
   <img src="https://gitviews.com/user/sarvan-2187.svg?style=flat&label-color=%23555&color=%23f59e0b" />
