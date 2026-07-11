@@ -10,34 +10,34 @@
   </text>
 
   <text x="496" y="42" text-anchor="end" fill="#c9d1d9" font-size="16" font-weight="600" font-family="Segoe UI, sans-serif">
-    Total: 120
+    Total: 121
   </text>
 
   <!-- Bar Background -->
   <rect x="24" y="70" width="472" height="12" rx="6" fill="#30363d"/>
 
   <!-- Segments -->
-  <rect x="24" y="70" width="157" height="12" rx="6" fill="#facc15"/>
-  <rect x="181" y="70" width="134" height="12" fill="#3b82f6"/>
-  <rect x="315" y="70" width="181" height="12" rx="6" fill="#22c55e"/>
+  <rect x="24" y="70" width="160" height="12" rx="6" fill="#facc15"/>
+  <rect x="184" y="70" width="133" height="12" fill="#3b82f6"/>
+  <rect x="317" y="70" width="179" height="12" rx="6" fill="#22c55e"/>
 
   <!-- Legend -->
   <!-- LeetCode -->
   <circle cx="30" cy="115" r="6" fill="#facc15"/>
   <text x="45" y="120" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
-    LeetCode 33.3%
+    LeetCode 33.9%
   </text>
 
   <!-- GFG -->
   <circle cx="30" cy="145" r="6" fill="#3b82f6"/>
   <text x="45" y="150" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
-    GFG 28.3%
+    GFG 28.1%
   </text>
 
   <!-- HackerRank -->
   <circle cx="270" cy="115" r="6" fill="#22c55e"/>
   <text x="285" y="120" fill="#c9d1d9" font-size="15" font-family="Segoe UI, sans-serif">
-    HackerRank 38.3%
+    HackerRank 38.0%
   </text>
 
 </svg>
