@@ -21,22 +21,3 @@
     </td>
   </tr>
 </table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      
-<p align="center"><b>Coding Stats</b></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sarvan-2187/sarvan-2187/5d5e1a3699d9ba76ce8ce26f0f0314491ffcba5c/codolio.svg" />
-</p>
-
-</td>
-    <td width="50%" valign="top">
-
-<p align="center"><b>Development Stats</b></p>
-
-<div align="center"><img width="98%" height="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" /></div>
-</td>
-  </tr>  
-</table>
