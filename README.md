@@ -68,25 +68,16 @@ Pre-final year **B.Tech Computer Science** student at **Amrita Vishwa Vidyapeeth
 
 <br/>
 
-## Coding Profiles
-
-<p align="center">
-  <img src="assets/codolio.svg" alt="Coding stats (LeetCode / GfG / HackerRank)"/>
-</p>
-
-<br/>
-
 ## Featured Projects
 
 | Project | What it does |
 |---|---|
-| ⭐ **[Bookmrk](https://github.com/sarvan-2187/Bookmrk)** | Open-source bookmark manager — React, TypeScript, Vite, Tailwind. Quick-save shortcuts, multi-board canvas layout, Chrome import. |
-| **[full-stack-coding-agent](https://github.com/sarvan-2187/full-stack-coding-agent)** | "Codrr" — a CrewAI + OpenRouter agent that turns natural-language requirements into scaffolded, production-ready projects. |
+| ⭐ **[Bookmrk](https://github.com/sarvan-2187/Bookmrk)** | Open-source bookmark manager  React, TypeScript, Vite, Tailwind. Quick-save shortcuts, multi-board canvas layout, Chrome import. |
+| **[full-stack-coding-agent](https://github.com/sarvan-2187/full-stack-coding-agent)** | "Codrr"  a CrewAI + OpenRouter agent that turns natural-language requirements into scaffolded, production-ready projects. |
 | **[readme-rating-agent](https://github.com/sarvan-2187/readme-rating-agent)** | CrewAI/LangChain/Groq agent that rates a GitHub repo's README quality out of 5, with a Rich-powered CLI. |
-| **[finshield-ai](https://github.com/sarvan-2187/finshield-ai)** | AI analysis of Indian bank/NBFC loan agreements — flags RBI violations and EMI deviations, drafts escalation letters. |
+| **[finshield-ai](https://github.com/sarvan-2187/finshield-ai)** | AI analysis of Indian bank/NBFC loan agreements  flags RBI violations and EMI deviations, drafts escalation letters. |
 | **[savynce-price-drop-tracker](https://github.com/sarvan-2187/savynce-price-drop-tracker)** | Next.js price tracker with Supabase, Firecrawl scraping, and scheduled email alerts. |
 | **[Aarogya-AI](https://github.com/sarvan-2187/Aarogya-AI)** | Healthcare hackathon project — Code for Bharat Season 2, built on the Gemini API. |
-| **[leet-sync](https://github.com/sarvan-2187/leet-sync)** | Chrome extension that auto-pushes LeetCode submissions to GitHub with structured commit history. |
 
 <br/>
 
