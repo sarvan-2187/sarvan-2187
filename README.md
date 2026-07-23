@@ -51,28 +51,11 @@ Pre-final year **B.Tech Computer Science** student at **Amrita Vishwa Vidyapeeth
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarvan-2187&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvan-2187&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvan-2187&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarvan-2187&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
-</p>
-
-<br/>
-
 ## Featured Projects
 
 | Project | What it does |
 |---|---|
-| ⭐ **[Bookmrk](https://github.com/sarvan-2187/Bookmrk)** | Open-source bookmark manager  React, TypeScript, Vite, Tailwind. Quick-save shortcuts, multi-board canvas layout, Chrome import. |
+| **[Bookmrk](https://github.com/sarvan-2187/Bookmrk)** | Open-source bookmark manager  React, TypeScript, Vite, Tailwind. Quick-save shortcuts, multi-board canvas layout, Chrome import. |
 | **[full-stack-coding-agent](https://github.com/sarvan-2187/full-stack-coding-agent)** | "Codrr"  a CrewAI + OpenRouter agent that turns natural-language requirements into scaffolded, production-ready projects. |
 | **[readme-rating-agent](https://github.com/sarvan-2187/readme-rating-agent)** | CrewAI/LangChain/Groq agent that rates a GitHub repo's README quality out of 5, with a Rich-powered CLI. |
 | **[finshield-ai](https://github.com/sarvan-2187/finshield-ai)** | AI analysis of Indian bank/NBFC loan agreements  flags RBI violations and EMI deviations, drafts escalation letters. |
