@@ -23,12 +23,12 @@
 
 Pre-final year **B.Tech Computer Science** student at **Amrita Vishwa Vidyapeetham, Chennai Campus**, building full-stack products and AI-powered tools.
 
-- 🔭 Full Stack Developer on the **Tantrotsav** website team — shipped and ran a production platform for **3,500+ registrations across 10 states** and **60+ parallel events**, with zero-downtime deploys and live payment-gateway debugging.
-- 🧩 Coordinator at **Neuronix Club AIE**, helped organize **Flash 2.0**, a multi-team campus hackathon.
-- 🏆 Recognized at **Flash Hackathon** (1st prize), **Code for Bharat S2**, **DeltaBuild Hackathon**, **Suprathon 2025**, and **Code of Caribbean**.
-- 🛠️ Building **[Bookmrk](https://github.com/sarvan-2187/Bookmrk)**, an open-source bookmark manager, and shipping AI agents on CrewAI/LangChain.
-- 🌱 Currently exploring backend systems, distributed infra, and LLM-powered product integrations.
-- 💬 Open to software engineering / AI-systems opportunities.
+- Full Stack Developer on the **Tantrotsav** website team — shipped and ran a production platform for **3,500+ registrations across 10 states** and **60+ parallel events**, with zero-downtime deploys and live payment-gateway debugging.
+- Coordinator at **Neuronix Club AIE**, helped organize **Flash 2.0**, a multi-team campus hackathon.
+- Recognized at **Flash Hackathon** (1st prize), **Code for Bharat S2**, **DeltaBuild Hackathon**, **Suprathon 2025**, and **Code of Caribbean**.
+- Building **[Bookmrk](https://github.com/sarvan-2187/Bookmrk)**, an open-source bookmark manager, and shipping AI agents on CrewAI/LangChain.
+- Currently exploring backend systems, distributed infra, and LLM-powered product integrations.
+- Open to software engineering / AI-systems opportunities.
 
 <br/>
 
