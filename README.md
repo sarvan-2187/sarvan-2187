@@ -2,8 +2,8 @@
 
 <a href="https://github.com/sarvan-2187">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero_dark.svg">
-    <img alt="Sarvan Kumar" src="assets/hero_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero_dark.svg?v=2">
+    <img alt="Sarvan Kumar" src="assets/hero_light.svg?v=2">
   </picture>
 </a>
 
