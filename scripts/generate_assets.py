@@ -98,15 +98,6 @@ def build_svg(stats, waka, theme):
     text_x = pad + ascii_w + gap
     col_w = 300
     width = int(text_x + col_w + pad)
-    height = int(max(ascii_h + pad * 2, 250))
-
-    ascii_y = (height - ascii_h) / 2 + font_size
-    ascii_tspans = "".join(
-        f'<tspan x="{pad}" dy="{0 if i == 0 else line_h}">{esc(line)}</tspan>'
-        for i, line in enumerate(ASCII_LINES)
-    )
-
-    div_x = pad + ascii_w + gap / 2
 
     stat_rows = [
         ("repos", str(stats["repos"]), False),
@@ -119,6 +110,20 @@ def build_svg(stats, waka, theme):
         stat_rows.append(("top_lang", waka["top_lang"], False))
     stat_rows.append(("status", "open to work", True))
 
+    row_h = 25
+    first_row_y = pad + 4 + 21 + 30 + 22 + 26 + 24
+    text_content_height = (first_row_y - pad) + len(stat_rows) * row_h + 6
+
+    height = int(max(ascii_h + pad * 2, text_content_height + pad))
+
+    ascii_y = (height - ascii_h) / 2 + font_size
+    ascii_tspans = "".join(
+        f'<tspan x="{pad}" dy="{0 if i == 0 else line_h}">{esc(line)}</tspan>'
+        for i, line in enumerate(ASCII_LINES)
+    )
+
+    div_x = pad + ascii_w + gap / 2
+
     ty = pad + 4 + 21
     name_y = ty
     ty += 30
@@ -130,7 +135,6 @@ def build_svg(stats, waka, theme):
     ty += 24
 
     stat_lines = ""
-    row_h = 25
     for k, v, is_status in stat_rows:
         color = green if is_status else text_primary
         stat_lines += (
