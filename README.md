@@ -9,14 +9,15 @@
 
 <br/>
 
+</div>
+
+<br/>
+<div align="center">
 <a href="https://sarvankumar.in"><img src="https://img.shields.io/badge/Portfolio-sarvankumar.in-6bbbca?style=flat&labelColor=0d1117" alt="Portfolio"/></a>
 <a href="mailto:sarvankumarnagarampalli478@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-ffb454?style=flat&labelColor=0d1117" alt="Email"/></a>
 <a href="https://linkedin.com/in/nagarampalli-sarvan-kumar"><img src="https://img.shields.io/badge/LinkedIn-connect-7aa2f7?style=flat&labelColor=0d1117" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=sarvan-2187&style=flat&color=blueviolet&label=profile+views" alt="profile views"/>
-
 </div>
-
-<br/>
 
 ## About
 
