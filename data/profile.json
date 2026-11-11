@@ -1481,7 +1481,7 @@
         "color": "#3572A5"
       },
       "stars": 0,
-      "pushedAt": "2026-11-11T06:28:00Z",
+      "pushedAt": "2026-11-11T06:28:23Z",
       "topics": [
         "config",
         "github-config"
@@ -1569,7 +1569,11 @@
       },
       "stars": 0,
       "pushedAt": "2026-10-17T09:20:48Z",
-      "topics": []
+      "topics": [
+        "hackathon",
+        "hackathon-project",
+        "hackathons"
+      ]
     },
     {
       "name": "BRISC-Edge",
@@ -1590,7 +1594,12 @@
       },
       "stars": 0,
       "pushedAt": "2026-10-16T14:54:57Z",
-      "topics": []
+      "topics": [
+        "embedded-systems",
+        "research",
+        "research-paper",
+        "research-project"
+      ]
     },
     {
       "name": "Bharat-Point",
@@ -1602,7 +1611,11 @@
       },
       "stars": 0,
       "pushedAt": "2026-10-14T10:57:43Z",
-      "topics": []
+      "topics": [
+        "hackathon",
+        "hackathon-project",
+        "hackathons"
+      ]
     },
     {
       "name": "sih",
@@ -1614,7 +1627,11 @@
       },
       "stars": 0,
       "pushedAt": "2026-10-08T16:03:21Z",
-      "topics": []
+      "topics": [
+        "hackathon",
+        "hackathon-project",
+        "hackathon2026"
+      ]
     },
     {
       "name": "dog-food",
@@ -1692,7 +1709,11 @@
       },
       "stars": 0,
       "pushedAt": "2026-09-08T15:03:31Z",
-      "topics": []
+      "topics": [
+        "hackathon",
+        "hackathon-project",
+        "hackathons"
+      ]
     },
     {
       "name": "sah-poster-presentation",
@@ -2078,7 +2099,9 @@
       "pushedAt": "2025-05-24T07:26:12Z",
       "topics": [
         "flash-hackathon",
-        "won-1st-prize"
+        "hackathon",
+        "hackathon-project",
+        "hackathon-winner"
       ]
     }
   ],

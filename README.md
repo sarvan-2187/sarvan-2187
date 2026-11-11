@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/sarvan-2187?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-build-light.svg"><img src="assets/card-build-dark.svg" alt="Build: 31 stars across 44 repos. Most starred: Bookmrk" width="32.6%"></picture></a>
-<a href="https://github.com/sarvan-2187?tab=repositories&q=topic:hackathon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-win-light.svg"><img src="assets/card-win-dark.svg" alt="Win: 3 hackathon builds. HackFlow by Hackathon Raptors is a self-hosted platform that runs a hackathon from start to finish. It covers registration, teams, project submissions, el…" width="32.6%"></picture></a>
+<a href="https://github.com/sarvan-2187?tab=repositories&q=topic:hackathon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-win-light.svg"><img src="assets/card-win-dark.svg" alt="Win: 8 hackathon builds. The solution for Payments 4.0 - PRISM (Payment Risk &amp; Intent Security Model) built at &quot;Project KERBEROS&quot; hackathonThe mobile app for Payments 4.0 - PRISM…" width="32.6%"></picture></a>
 <a href="https://github.com/sarvan-2187/brisc-deployment"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-research-light.svg"><img src="assets/card-research-dark.svg" alt="Research: BRISC-Dep. Adaptive brain-tumor MRI analysis on Raspberry Pi and Jetson" width="32.6%"></picture></a>
 </p>
 
