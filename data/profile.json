@@ -3,7 +3,7 @@
   "followers": 30,
   "mergedPRs": 91,
   "contributions": {
-    "total": 2536,
+    "total": 2535,
     "days": [
       [
         "2025-11-11",
@@ -1363,7 +1363,7 @@
       ],
       [
         "2026-10-16",
-        2
+        1
       ],
       [
         "2026-10-17",
@@ -1411,7 +1411,7 @@
       ],
       [
         "2026-10-28",
-        3
+        1
       ],
       [
         "2026-10-29",
@@ -1467,21 +1467,33 @@
       ],
       [
         "2026-11-11",
-        5
+        7
       ]
     ]
   },
   "repos": [
     {
+      "name": "seven-segment",
+      "url": "https://github.com/sarvan-2187/seven-segment",
+      "description": null,
+      "language": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "stars": 0,
+      "pushedAt": "2026-11-11T15:49:40Z",
+      "topics": []
+    },
+    {
       "name": "sarvan-2187",
       "url": "https://github.com/sarvan-2187/sarvan-2187",
       "description": "Welcome to my Github Profile",
       "language": {
-        "name": "Python",
-        "color": "#3572A5"
+        "name": "JavaScript",
+        "color": "#f1e05a"
       },
       "stars": 0,
-      "pushedAt": "2026-11-11T06:28:23Z",
+      "pushedAt": "2026-11-11T06:50:54Z",
       "topics": [
         "config",
         "github-config"
@@ -1560,6 +1572,18 @@
       "topics": []
     },
     {
+      "name": "computer-networks",
+      "url": "https://github.com/sarvan-2187/computer-networks",
+      "description": null,
+      "language": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "stars": 0,
+      "pushedAt": "2026-10-21T16:08:46Z",
+      "topics": []
+    },
+    {
       "name": "PRISM",
       "url": "https://github.com/sarvan-2187/PRISM",
       "description": "The solution for Payments 4.0 - PRISM (Payment Risk & Intent Security Model) built at \"Project KERBEROS\" hackathonThe mobile app for Payments 4.0 - PRISM (Payment Risk & Intent Security Model) built at \"Project KERBEROS\" hackathon",
@@ -1574,15 +1598,6 @@
         "hackathon-project",
         "hackathons"
       ]
-    },
-    {
-      "name": "BRISC-Edge",
-      "url": "https://github.com/sarvan-2187/BRISC-Edge",
-      "description": null,
-      "language": null,
-      "stars": 0,
-      "pushedAt": "2026-10-16T14:56:46Z",
-      "topics": []
     },
     {
       "name": "brisc-deployment",
@@ -1726,6 +1741,21 @@
       "stars": 0,
       "pushedAt": "2026-09-06T10:19:53Z",
       "topics": []
+    },
+    {
+      "name": "MiVision_V1",
+      "url": "https://github.com/sarvan-2187/MiVision_V1",
+      "description": "YOLOv8-based military aircraft detector trained on 17 classes (fighters, bombers, transports, helicopters). Handles severe class imbalance across a real-world Kaggle dataset; includes honest per-class evaluation and confusion analysis. Deployed via Streamlit.",
+      "language": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "stars": 0,
+      "pushedAt": "2026-08-16T17:14:19Z",
+      "topics": [
+        "computer-vision",
+        "yolo"
+      ]
     },
     {
       "name": "qrious",
@@ -2021,6 +2051,23 @@
         "modern-ui-design",
         "neuronix",
         "avv-chennai"
+      ]
+    },
+    {
+      "name": "my-portfolio",
+      "url": "https://github.com/sarvan-2187/my-portfolio",
+      "description": "A personal portfolio website showcasing my projects, skills, and work, built using modern web technologies with a clean and responsive design.",
+      "language": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "stars": 0,
+      "pushedAt": "2026-01-06T06:26:38Z",
+      "topics": [
+        "nextjs",
+        "portfolio",
+        "typescript",
+        "cli-portfolio"
       ]
     },
     {
