@@ -1,0 +1,24 @@
+{
+  "firstName": "Sarvan",
+  "lastName": "Kumar",
+  "tagline": "I build web platforms, security tools for AI agents, and edge ML. CSE @ Amrita Chennai.",
+  "website": "https://sarvankumar.in",
+  "linkedin": "https://linkedin.com/in/nagarampalli-sarvan-kumar",
+  "email": "sarvankumarnagarampalli478@gmail.com",
+  "profilesTitle": ["Models & ", "algorithms"],
+  "profiles": {
+    "LeetCode": "",
+    "Codeforces": "https://codeforces.com/profile/sarvan_2187",
+    "Kaggle": "https://www.kaggle.com/sarvan2187",
+    "Hugging Face": "https://huggingface.co/sarvan-2187"
+  },
+  "exclude": ["sarvan-2187"],
+
+  "cards": {
+    "build":    { "label": "Build",    "topic": "oss-tool",  "repos": [], "headline": "", "sub": "", "href": "" },
+    "win":      { "label": "Win",      "topic": "hackathon", "repos": [], "headline": "", "sub": "", "href": "" },
+    "research": { "label": "Research", "topic": "research",  "repos": ["brisc-deployment"], "headline": "BRISC-Dep", "sub": "Adaptive brain-tumor MRI analysis on Raspberry Pi and Jetson", "href": "" }
+  },
+
+  "coding": []
+}
