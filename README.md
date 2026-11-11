@@ -2,7 +2,7 @@
 
 <a href="https://sarvankumar.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-light.svg"><img src="assets/hero-dark.svg" alt="Sarvan Kumar. I build web platforms, security tools for AI agents, and edge ML. CSE @ Amrita Chennai. 30 followers, 91 merged PRs." width="100%"></picture></a>
 
-<a href="https://github.com/sarvan-2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-light.svg"><img src="assets/heatmap-dark.svg" alt="Contribution heatmap: 2,531 contributions in the last year." width="100%"></picture></a>
+<a href="https://github.com/sarvan-2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-light.svg"><img src="assets/heatmap-dark.svg" alt="Contribution heatmap: 2,532 contributions in the last year." width="100%"></picture></a>
 
 <p>
 <a href="https://github.com/sarvan-2187?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-build-light.svg"><img src="assets/card-build-dark.svg" alt="Build: 31 stars across 44 repos. Most starred: Bookmrk" width="32%"></picture></a>
