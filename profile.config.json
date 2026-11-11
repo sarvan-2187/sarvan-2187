@@ -20,5 +20,5 @@
     "research": { "label": "Research", "topic": "research",  "repos": ["brisc-deployment"], "headline": "BRISC-Dep", "sub": "Adaptive brain-tumor MRI analysis on Raspberry Pi and Jetson", "href": "" }
   },
 
-  "coding": []
+  "coding": ["Dhamani", "Bookmrk", { "name": "dog-food", "title": "HackFlow" }]
 }
