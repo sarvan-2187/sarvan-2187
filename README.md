@@ -4,26 +4,26 @@
 
 <a href="https://github.com/sarvan-2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-light.svg"><img src="assets/heatmap-dark.svg" alt="Contribution heatmap: 2,535 contributions in the last year." width="100%"></picture></a>
 
-<p>
-<a href="https://github.com/sarvan-2187?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-build-light.svg"><img src="assets/card-build-dark.svg" alt="Build: 31 stars across 44 repos. Most starred: Bookmrk" width="32%"></picture></a>
-<a href="https://github.com/sarvan-2187?tab=repositories&q=topic:hackathon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-win-light.svg"><img src="assets/card-win-dark.svg" alt="Win: 3 hackathon builds. HackFlow by Hackathon Raptors is a self-hosted platform that runs a hackathon from start to finish. It covers registration, teams, project submissions, el…" width="32%"></picture></a>
-<a href="https://github.com/sarvan-2187/brisc-deployment"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-research-light.svg"><img src="assets/card-research-dark.svg" alt="Research: BRISC-Dep. Adaptive brain-tumor MRI analysis on Raspberry Pi and Jetson" width="32%"></picture></a>
+<p align="center">
+<a href="https://github.com/sarvan-2187?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-build-light.svg"><img src="assets/card-build-dark.svg" alt="Build: 31 stars across 44 repos. Most starred: Bookmrk" width="32.6%"></picture></a>
+<a href="https://github.com/sarvan-2187?tab=repositories&q=topic:hackathon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-win-light.svg"><img src="assets/card-win-dark.svg" alt="Win: 3 hackathon builds. HackFlow by Hackathon Raptors is a self-hosted platform that runs a hackathon from start to finish. It covers registration, teams, project submissions, el…" width="32.6%"></picture></a>
+<a href="https://github.com/sarvan-2187/brisc-deployment"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-research-light.svg"><img src="assets/card-research-dark.svg" alt="Research: BRISC-Dep. Adaptive brain-tumor MRI analysis on Raspberry Pi and Jetson" width="32.6%"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/coding-title-dark.svg"><img src="assets/coding-title-light.svg" alt="What I’m coding" width="100%"></picture>
 
-<p>
-<a href="https://github.com/sarvan-2187/Dhamani"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-1-light.svg"><img src="assets/repo-1-dark.svg" alt="Dhamani: Dhamani finds blood donors near the hospital, on WhatsApp. Live request page, verified donations with certificates, coordinator console. No app to install." width="32%"></picture></a>
-<a href="https://github.com/sarvan-2187/Bookmrk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-2-light.svg"><img src="assets/repo-2-dark.svg" alt="Bookmrk: Bookmrk is a lightweight, open-source bookmark manager built with React, TypeScript, Vite and Tailwind CSS. It is designed as a modern local-first bookmark manager with q…" width="32%"></picture></a>
-<a href="https://github.com/sarvan-2187/dog-food"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-3-light.svg"><img src="assets/repo-3-dark.svg" alt="HackFlow: HackFlow by Hackathon Raptors is a self-hosted platform that runs a hackathon from start to finish. It covers registration, teams, project submissions, eligibility check…" width="32%"></picture></a>
+<p align="center">
+<a href="https://github.com/sarvan-2187/Dhamani"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-1-light.svg"><img src="assets/repo-1-dark.svg" alt="Dhamani: Dhamani finds blood donors near the hospital, on WhatsApp. Live request page, verified donations with certificates, coordinator console. No app to install." width="32.6%"></picture></a>
+<a href="https://github.com/sarvan-2187/Bookmrk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-2-light.svg"><img src="assets/repo-2-dark.svg" alt="Bookmrk: Bookmrk is a lightweight, open-source bookmark manager built with React, TypeScript, Vite and Tailwind CSS. It is designed as a modern local-first bookmark manager with q…" width="32.6%"></picture></a>
+<a href="https://github.com/sarvan-2187/dog-food"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-3-light.svg"><img src="assets/repo-3-dark.svg" alt="HackFlow: HackFlow by Hackathon Raptors is a self-hosted platform that runs a hackathon from start to finish. It covers registration, teams, project submissions, eligibility check…" width="32.6%"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profiles-title-dark.svg"><img src="assets/profiles-title-light.svg" alt="Models &amp; algorithms" width="100%"></picture>
 
-<p>
-<a href="https://codeforces.com/profile/sarvan_2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-codeforces-light.svg"><img src="assets/profile-codeforces-dark.svg" alt="Codeforces: 843 rating. Newbie · max 843" width="32%"></picture></a>
-<a href="https://huggingface.co/sarvan-2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-hugging-face-light.svg"><img src="assets/profile-hugging-face-dark.svg" alt="Hugging Face: 1 model. Models, spaces and datasets" width="32%"></picture></a>
-<a href="https://www.kaggle.com/sarvan2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-kaggle-light.svg"><img src="assets/profile-kaggle-dark.svg" alt="Kaggle: 10 notebooks. 1 competition" width="32%"></picture></a>
+<p align="center">
+<a href="https://codeforces.com/profile/sarvan_2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-codeforces-light.svg"><img src="assets/profile-codeforces-dark.svg" alt="Codeforces: 843 rating. Newbie · max 843" width="32.6%"></picture></a>
+<a href="https://huggingface.co/sarvan-2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-hugging-face-light.svg"><img src="assets/profile-hugging-face-dark.svg" alt="Hugging Face: 1 model. Models, spaces and datasets" width="32.6%"></picture></a>
+<a href="https://www.kaggle.com/sarvan2187"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-kaggle-light.svg"><img src="assets/profile-kaggle-dark.svg" alt="Kaggle: 10 notebooks. 1 competition" width="32.6%"></picture></a>
 </p>
 
 <p align="center"><a href="https://sarvankumar.in">sarvankumar.in</a> · <a href="https://linkedin.com/in/nagarampalli-sarvan-kumar">LinkedIn</a> · <a href="mailto:sarvankumarnagarampalli478@gmail.com">Email</a> · <a href="https://codeforces.com/profile/sarvan_2187">Codeforces</a> · <a href="https://www.kaggle.com/sarvan2187">Kaggle</a> · <a href="https://huggingface.co/sarvan-2187">Hugging Face</a></p>
