@@ -14,7 +14,7 @@ const NOW = Date.now();
 // ---------- design tokens ----------
 const BLUE = '#2747F5', RED = '#E5322D', YELLOW = '#F5C518';
 const THEMES = {
-  light: { bg: '#FAF8F3', card: '#FFFFFF', border: '#E7E2D6', ink: '#111111', muted: '#6B6658', disc: '#EFE9DC',
+  light: { bg: '#FAF8F3', card: '#FFFFFF', border: '#E7E2D6', ink: '#111111', muted: '#6B6658', disc: 'none',
     empty: '#ECE7DC', blues: ['#D3DAFD', '#A3B2FB', '#6E85F8', '#4462F6', BLUE] },
   dark: { bg: '#000000', card: '#000000', border: '#222222', ink: '#F2F2F2', muted: '#8C8C8C', disc: 'none',
     empty: '#161616', blues: ['#131E52', '#1B2D8C', '#2541CF', '#4D69FF', '#8C9FFF'] },
