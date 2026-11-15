@@ -1477,11 +1477,23 @@
         "color": "#f1e05a"
       },
       "stars": 0,
-      "pushedAt": "2026-11-14T17:43:35Z",
+      "pushedAt": "2026-11-15T05:08:08Z",
       "topics": [
         "config",
         "github-config"
       ]
+    },
+    {
+      "name": "brain-tumor-yolo",
+      "url": "https://github.com/sarvan-2187/brain-tumor-yolo",
+      "description": "The GitHub repository for the YOLOv8, YOLO11, YOLO26 Model comparisons on the Brain Tumor MRI Dataset",
+      "language": {
+        "name": "Jupyter Notebook",
+        "color": "#DA5B0B"
+      },
+      "stars": 0,
+      "pushedAt": "2026-11-14T06:17:34Z",
+      "topics": []
     },
     {
       "name": "seven-segment",
