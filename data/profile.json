@@ -3,7 +3,7 @@
   "followers": 30,
   "mergedPRs": 91,
   "contributions": {
-    "total": 2544,
+    "total": 2547,
     "days": [
       [
         "2025-11-18",
@@ -1467,11 +1467,28 @@
       ],
       [
         "2026-11-18",
-        0
+        3
       ]
     ]
   },
   "repos": [
+    {
+      "name": "Bookmrk",
+      "url": "https://github.com/sarvan-2187/Bookmrk",
+      "description": "Bookmrk is a lightweight, open-source bookmark manager built with React, TypeScript, Vite and Tailwind CSS. It is designed as a modern local-first bookmark manager with quick-save keyboard shortcuts, multi-board organization, a canvas-style 4-column board layout, Chrome import fallback, flexible backgrounds and a bunch of themes.",
+      "language": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "stars": 27,
+      "pushedAt": "2026-11-18T14:37:24Z",
+      "topics": [
+        "bookmark-manager",
+        "bookmarks-manager",
+        "chrome-extension",
+        "dashboard-ui"
+      ]
+    },
     {
       "name": "DAA-LAB",
       "url": "https://github.com/sarvan-2187/DAA-LAB",
@@ -1481,7 +1498,7 @@
         "color": "#555555"
       },
       "stars": 0,
-      "pushedAt": "2026-11-18T05:02:01Z",
+      "pushedAt": "2026-11-18T07:13:26Z",
       "topics": [
         "algorithms",
         "path-tracing-algorithm",
@@ -1497,7 +1514,7 @@
         "color": "#f1e05a"
       },
       "stars": 0,
-      "pushedAt": "2026-11-17T20:32:23Z",
+      "pushedAt": "2026-11-18T06:12:39Z",
       "topics": [
         "config",
         "github-config"
@@ -1544,23 +1561,6 @@
         "whatsapp",
         "whatsapp-bot",
         "whatsapp-cloud-api"
-      ]
-    },
-    {
-      "name": "Bookmrk",
-      "url": "https://github.com/sarvan-2187/Bookmrk",
-      "description": "Bookmrk is a lightweight, open-source bookmark manager built with React, TypeScript, Vite and Tailwind CSS. It is designed as a modern local-first bookmark manager with quick-save keyboard shortcuts, multi-board organization, a canvas-style 4-column board layout, Chrome import fallback, flexible backgrounds and a bunch of themes.",
-      "language": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "stars": 27,
-      "pushedAt": "2026-11-04T16:18:39Z",
-      "topics": [
-        "bookmark-manager",
-        "bookmarks-manager",
-        "chrome-extension",
-        "dashboard-ui"
       ]
     },
     {
