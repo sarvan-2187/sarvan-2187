@@ -1,6 +1,6 @@
 {
   "login": "sarvan-2187",
-  "followers": 30,
+  "followers": 29,
   "mergedPRs": 91,
   "contributions": {
     "total": 2547,
@@ -1473,6 +1473,18 @@
   },
   "repos": [
     {
+      "name": "care",
+      "url": "https://github.com/sarvan-2187/care",
+      "description": null,
+      "language": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "stars": 0,
+      "pushedAt": "2026-11-19T14:24:47Z",
+      "topics": []
+    },
+    {
       "name": "sarvan-2187",
       "url": "https://github.com/sarvan-2187/sarvan-2187",
       "description": "Welcome to my Github Profile",
@@ -1481,7 +1493,7 @@
         "color": "#f1e05a"
       },
       "stars": 0,
-      "pushedAt": "2026-11-18T20:04:10Z",
+      "pushedAt": "2026-11-19T06:13:26Z",
       "topics": [
         "config",
         "github-config"
@@ -1884,18 +1896,6 @@
         "ai-assistant",
         "custom-gpt"
       ]
-    },
-    {
-      "name": "care",
-      "url": "https://github.com/sarvan-2187/care",
-      "description": null,
-      "language": {
-        "name": "C++",
-        "color": "#f34b7d"
-      },
-      "stars": 0,
-      "pushedAt": "2026-05-15T11:34:10Z",
-      "topics": []
     },
     {
       "name": "tickd",
