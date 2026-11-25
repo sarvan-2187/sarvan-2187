@@ -3,7 +3,7 @@
   "followers": 29,
   "mergedPRs": 91,
   "contributions": {
-    "total": 2560,
+    "total": 2561,
     "days": [
       [
         "2025-11-25",
@@ -1467,11 +1467,27 @@
       ],
       [
         "2026-11-25",
-        2
+        3
       ]
     ]
   },
   "repos": [
+    {
+      "name": "ipl-auction-simulator",
+      "url": "https://github.com/sarvan-2187/ipl-auction-simulator",
+      "description": "IPL Auction Simulation Game, Built using Claude",
+      "language": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "stars": 0,
+      "pushedAt": "2026-11-25T18:03:43Z",
+      "topics": [
+        "auction-website",
+        "ipl",
+        "simulation"
+      ]
+    },
     {
       "name": "sarvan-2187",
       "url": "https://github.com/sarvan-2187/sarvan-2187",
@@ -1481,7 +1497,7 @@
         "color": "#f1e05a"
       },
       "stars": 0,
-      "pushedAt": "2026-11-24T21:58:32Z",
+      "pushedAt": "2026-11-25T07:18:24Z",
       "topics": [
         "config",
         "github-config"
